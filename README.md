@@ -8,5 +8,5 @@
 
 # 3、公考题目类比推理问题实验数据
 
-(https://github.com/Leo-Brian/Research-on-the-Reverse-Curse-in-Large-Language-Models-Based-on-Logic-Chain-of-Thought/blob/main/%E5%85%AC%E8%80%83%E9%A2%98%E7%9B%AE%E7%B1%BB%E6%AF%94%E6%8E%A8%E7%90%86%E9%97%AE%E9%A2%98.csv)
+(https://github.com/Leo-Brian/Research-on-the-Reverse-Curse-in-Large-Language-Models-Based-on-Logic-Chain-of-Thought/blob/main/.csv)
 
